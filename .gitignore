@@ -7,3 +7,9 @@ config.status
 configure
 cscope.*
 Makefile
+dgamelaunch
+ee
+lex.yy.c
+virus
+y.tab.c
+y.tab.h
